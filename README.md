@@ -1,12 +1,16 @@
 To-do app by Niilo Syvänen
 
+
 Demo link:
+
 Access my site at [google.com](https://niilosy.github.io/todoapp/)
 
-Workload
+
+Workload:
+
 I worked on and off for a weeks time on this project.
 
-Table of Content:
+Table of Content:<br>
 About The App
 Screenshots
 Technologies
