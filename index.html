@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="projekti.css">
+    <title>To-do lista</title>
+</head>
+<body>
+    <h1> Luo oma to do-listasi.</h1>
+<form id="login">
+    <input onclick="raivaa()" onblur="palauta()" placeholder="Syötä nimesi" id="name"> <br>
+    <button id="loginbutton" onclick="validoiKentat()" type="submit">Lähetä</button>
+</form>
+<form id="todoform">
+    <input type="text" onfocus="tyhjennä()" onblur="lisää()" placeholder="Mitä haluaisit lisätä?" id="todoinput">
+    <button onclick="lomake()" type="submit">Lisää</button>
+</form>
+    <ul id="todolist"></ul>
+<div id="napit" style="display: none;">
+    <button id="resetnappi" onclick="tyhjennäLista()" >Tyhjennä lista</button>
+    <button onclick="näytäKaikki()">Näytä kaikki</button>
+    <button onclick="näytäTehdyt()">Näytä vain tehdyt</button>
+    <button onclick="näytäTekemättömät()">Näytä vain tekemättömät</button>
+</div>
+<script src="projekti.js"></script>
+</body>
+</html>
+
