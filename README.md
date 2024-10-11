@@ -35,7 +35,7 @@ License
 
 About The App
 
-To-do app is an app that allows you to make a to-do list, for example as a shopping list. You can cross of or delete tasks from your list or you can select view all, view undone, view done or delete all tasks. The page asks for your name and the next time you open the page a prompt will appear asking 'hey (savedName) would you like to return to page?' and then you have the option to start over or just return to the page.
+This app is in finnish and i don't know why i'm writing in english. To-do app is an app that allows you to make a to-do list, for example as a shopping list. You can cross of or delete tasks from your list or you can select view all, view undone, view done or delete all tasks. The page asks for your name and the next time you open the page a prompt will appear asking 'hey (savedName) would you like to return to page?' and then you have the option to start over or just return to the page.
 
 Screenshots
 
